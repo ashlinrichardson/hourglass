@@ -1,1 +1,1 @@
-![hourglass](hourglass.png)
+![hourglass](hourglass.png | width=250)
