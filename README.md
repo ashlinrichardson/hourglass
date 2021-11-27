@@ -1,3 +1,3 @@
 # Hourglass / Sablier
 <img src="hourglass.png" width="250">
-Hourglass is an investigative tool for heterogeneous transactional records, developed in partnership with the Michael Smith Foundation, the University of Victoria and the Vancouver Island Health Authority. 
+An accessible investigative tool for decision support, developed in partnership with the Michael Smith Foundation, Vancouver Island Health Authority and the University of Victoria
