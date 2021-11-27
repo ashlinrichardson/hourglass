@@ -1,1 +1,1 @@
-![hourglass](hourglass.png | width=250)
+<img src="hourglass.png" width="250">
