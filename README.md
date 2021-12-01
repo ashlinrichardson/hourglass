@@ -20,8 +20,8 @@ Hourglass will:
 * a quintessentially simple, graphic depiction of events
 * meets Law of Requisite Variety[^2] without overwhelming the user
 * reliable predictions and explanations which subject matter experts can interpret
-* achieves the goals of Machine Learning without complex Mathematics and Statistics
 * concise, first-principles, reusable, self contained, dependency free implementation
+* achieves the goals of Machine Learning without complex Mathematics and Statistics
 * scalable: computer resource use requirements are directly proportional to input data volume
 * performs Data Anonymization to protect personal privacy while supporting increasing openness, transparency and accountability of public services
 
