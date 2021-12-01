@@ -13,8 +13,8 @@ Hourglass aims to:
 
 ### Technical characteristics
 * consumable outputs
-* produces pictures made of words
 * pivots to changing priorities of operations managers
+* produces pictures made of words that both explain and predict
 * meet Law of Requisite Variety[^1] without overwhelming the user
 * concise, first-principles, reusable, self contained, dependency free implementation
 * achieves the aims of Machine Learning without using complex Mathematics and Statistics
