@@ -1,7 +1,7 @@
 # Hourglass
 <img src="hourglass.png" width="250">
 
-An accessible investigative tool for decision support, developed in collaboration with the Michael Smith Foundation for Health Research (MSFHR), Vancouver Island Health Authority (VIHA) and the University of Victoria (UVIC) 
+An accessible investigative tool for decision support, developed in collaboration with the Michael Smith Foundation for Health Research (MSFHR), the Vancouver Island Health Authority (VIHA) and the University of Victoria (UVIC) 
 
 "This is just devastating in its power and evocative brilliance.  We will want to continue to work on this."
 
