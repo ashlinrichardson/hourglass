@@ -1,7 +1,9 @@
 # Hourglass
-An accessible investigative tool for decision support, developed in partnership with the Michael Smith Foundation, Vancouver Island Health Authority and the University of Victoria 
 
 <img src="hourglass.png" width="250">
+
+An accessible investigative tool for decision support, developed in partnership with the Michael Smith Foundation, Vancouver Island Health Authority and the University of Victoria 
+
 ## Mission
 Hourglass seeks to:
 * rapidly reveal real patterns, supporting non-technical business decision-makers with actionable situational-awareness in near-real-time
