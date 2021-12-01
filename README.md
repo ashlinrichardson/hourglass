@@ -15,7 +15,7 @@ Hourglass aims to:
 * pivots to changing priorities of operations managers
 * meet Law of Requisite Variety[^1] without overwhelming the user
 * concise, first-principles, reusable, self contained, dependency free implementation
-* achieves the aims of Machine Learning without use of complex Mathematics and Statistics
+* achieves the aims of Machine Learning without using complex Mathematics and Statistics
 * scalable: computer resource use requirements are directly proportional to the input data volume
 * perform Data Anonymization to protect personal privacy while supporting increasing openness, transparency and accountability of public services
 
