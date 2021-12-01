@@ -25,6 +25,6 @@ Hourglass will:
 * scalable: computer resource use requirements are directly proportional to input data volume
 * performs Data Anonymization to protect personal privacy while supporting increasing openness, transparency and accountability of public services
 
-[^1]: tailored for specific investigation and inquiry, not a greedy data mining approach
+[^1]: Privacy aware and tailored for specific investigation and inquiry, the opposite of a greedy data mining approach
 [^2]: the software is efficient enough to lend visibility to multiple issues, concerns or phenomena, without lengthly periods for re-training     
 [^3]: "Only variety can master variety, reducing disturbances and promoting harmonious order. Regulation is then possible only if the regulating system is as various and flexible (responsive to changes) as the system to be regulated." Introduction to Cybernetics (1956) by W. Ross Ashby
