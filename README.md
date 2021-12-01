@@ -33,7 +33,7 @@ Hourglass will:
 Hourglass operates on multiple heterogeneous database tables[^5] that must be timestamped. Moreover each table must include an attribute shared among the tables and providing linkage, such as an anonymized identifier.
 
 [^1]: Privacy aware and tailored for specific investigation and inquiry, not a greedy data mining approach
-[^2]: the application is efficient enough to lend visibility to multiple issues, concerns or phenomena, without lengthly periods for re-training     
+[^2]: The application is efficient enough to lend visibility to multiple issues, concerns or phenomena, without lengthly periods for re-training     
 [^3]: "Only variety can master variety, reducing disturbances and promoting harmonious order. Regulation is then possible only if the regulating system is as various and flexible (responsive to changes) as the system to be regulated." Introduction to Cybernetics (1956) by W. Ross Ashby
-[^4]: drawing inspiration from the [Light Cone](https://en.wikipedia.org/wiki/Light_cone) we need both time and space to tell a story!
+[^4]: Drawing inspiration from the [Light Cone](https://en.wikipedia.org/wiki/Light_cone) we need both time and space to tell a story!
 [^5]: Such as within the BC Data Innovation Program that operates a secure environment for citizen-centred, longditudinal research supporting best-outcomes
