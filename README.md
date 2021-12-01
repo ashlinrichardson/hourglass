@@ -5,7 +5,7 @@
 An accessible investigative tool for decision support, developed in partnership with the Michael Smith Foundation, Vancouver Island Health Authority and the University of Victoria 
 
 ## Mission
-Hourglass reveals repeating patterns to:
+Hourglass aims to:
 * provide focused, scalable insight into determinants and outcomes, at the speed of trust
 * support non-technical business decision-makers with actionable situational awareness and reliable intelligence in near-real time
 * raise the bar by setting an MVP international standard for the "Storytelling with Data" concept  
