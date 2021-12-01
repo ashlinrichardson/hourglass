@@ -11,7 +11,8 @@ Hourglass aims to:
 * raise the bar by setting an MVP international standard for the "Storytelling with Data" concept  
 * serve as a North Star in standard-setting for unconditionally objective analyses, as a support for ongoing implementation and development of diversity and inclusion initiatives incl. [GBA+](https://www2.gov.bc.ca/assets/gov/british-columbians-our-governments/services-policies-for-government/gender-equity/factsheet-gba.pdf) in Canada and around the world
 
-## Technical characteristics
+## Technical requirements
+Hourglass must be:
 * serviceable for operations managers and researchers 
 * fulfill Law of Requisite Variety[^1] without overwhelming the user
 * concise, first-principles, reusable, self contained, dependency free implementation
