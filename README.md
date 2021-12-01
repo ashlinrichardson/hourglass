@@ -5,7 +5,7 @@ An accessible, investigative tool developed in collaboration with the Michael Sm
 <img src="hourglass.png" width="250">
 
 ### Mission
-Hourglass aims to:
+Hourglass will:
 * provide reliable, focused, scalable insighs into determinants and outcomes, at the speed of trust
 * reveal real patterns rapidly, supporting non-technical business decision-makers with actionable situational awareness and reliable intelligence in near-real time 
 * raise the bar by setting an MVP international standard for the "Storytelling with Data" concept  
