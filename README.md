@@ -15,6 +15,7 @@ Hourglass will:
 "This is just devastating in its power and evocative brilliance.  We will want to continue to work on this."
 
 ### Technical characteristics
+* not a black box
 * pivots to changing priorities of operations managers
 * consumable outputs for reliably predicting and explaining
 * meet Law of Requisite Variety[^1] without overwhelming the user
