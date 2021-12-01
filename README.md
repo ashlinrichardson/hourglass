@@ -24,7 +24,7 @@ Hourglass will:
 * reliable predictions and explanations which subject matter experts can interpret
 * concise, first-principles, reusable, self contained, dependency free implementation
 * achieves the goals of Machine Learning without complex Mathematics and Statistics
-* scalable: computer resource use requirements are directly proportional to input data volume
+* scalable: Computing resource use requirements are directly proportional to input data volume
 * performs Data Anonymization to protect personal privacy while supporting increasing openness, transparency and accountability of public services
 
 [^1]: Privacy aware and tailored for specific investigation and inquiry, the opposite of a greedy data mining approach
