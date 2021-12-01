@@ -27,7 +27,7 @@ Hourglass will:
 * Achieves the goals of Machine Learning without complex Mathematics and Statistics
 * Scalable: Computing resource use requirements are directly proportional to input data volume
 * Performs Data Anonymization to protect personal privacy while supporting increasing openness, transparency and accountability of public services
-* Borrows critical information from fundamental physics[^4] to help understand social-science data that aren't overtly physical as remotely-sensed (RS) earth-observation (EO) data for example 
+* Borrows critical information from fundamental physics[^4] to help understand social-science data that are still physical if not as overtly so as remotely-sensed (RS) earth-observation (EO) data, for example 
 
 ## Inputs
 Hourglass operates on multiple heterogeneous database tables[^5] that must be timestamped. Moreover each table must include an attribute shared among the tables and providing linkage, such as an anonymized identifier.
