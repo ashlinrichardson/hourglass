@@ -13,9 +13,7 @@ Hourglass will:
 
 ### Feedback
 "This research has hit paydirt"
-
 "This is a significant accomplishment"
-
 "This is just devastating in its power and evocative brilliance.  We will want to continue to work on this."
 
 ### Technical characteristics
