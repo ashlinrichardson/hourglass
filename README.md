@@ -15,5 +15,4 @@ Hourglass seeks to:
 * achieve the aims of Machine Learning without use of complex Mathematics and Statistics
 * fulfill the Law of Requisite Variety[^1] without overwhelming the user
 
-[^1]: "Only variety can master variety, reducing disturbances and promoting harmonious order. Regulation is then possible only if the regulating system is as various and flexible (responsive to changes) as the system to be regulated." 
-
+[^1]: "Only variety can master variety, reducing disturbances and promoting harmonious order. Regulation is then possible only if the regulating system is as various and flexible (responsive to changes) as the system to be regulated." Introduction to Cybernetics (1956) by W. Ross Ashby
