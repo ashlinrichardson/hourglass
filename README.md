@@ -12,9 +12,10 @@ Hourglass aims to:
 * serve as a North Star in standard-setting for unconditionally objective analyses, as a support for ongoing implementation and development of diversity and inclusion initiatives incl. [GBA+](https://www2.gov.bc.ca/assets/gov/british-columbians-our-governments/services-policies-for-government/gender-equity/factsheet-gba.pdf) in Canada and around the world
 
 ## Technical characteristics
-* accomplish Data Anonymization to protect personal privacy while increasing openness, transparency and accountability of public services
-* offer a concise, first-principles, reusable, self contained, dependency free resource for operations management, and interdisciplinary reproducibile research
+* geared for operations management and reproducibile research
+* fulfills the Law of Requisite Variety[^1] without overwhelming the user
+* concise, first-principles, reusable, self contained, dependency free implementation
 * achieve the aims of Machine Learning without use of complex Mathematics and Statistics
-* fulfill the Law of Requisite Variety[^1] without overwhelming the user
+* Data Anonymization to protect personal privacy while supporting increasing openness, transparency and accountability of public services
 
 [^1]: "Only variety can master variety, reducing disturbances and promoting harmonious order. Regulation is then possible only if the regulating system is as various and flexible (responsive to changes) as the system to be regulated." Introduction to Cybernetics (1956) by W. Ross Ashby
