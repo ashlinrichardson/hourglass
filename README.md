@@ -12,6 +12,8 @@ Hourglass aims to:
 * serve as a North Star in standard-setting for unconditionally objective analyses, as a support for ongoing implementation and development of diversity and inclusion initiatives incl. [GBA+](https://www2.gov.bc.ca/assets/gov/british-columbians-our-governments/services-policies-for-government/gender-equity/factsheet-gba.pdf) in Canada and around the world
 
 ### Technical characteristics
+* consumable outputs
+* produces pictures made of words
 * pivots to changing priorities of operations managers
 * meet Law of Requisite Variety[^1] without overwhelming the user
 * concise, first-principles, reusable, self contained, dependency free implementation
