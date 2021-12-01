@@ -7,11 +7,11 @@ An accessible investigative tool for decision support, developed in partnership 
 ## Mission
 Hourglass aims to:
 * provide reliable, focused, scalable insights into determinants and outcomes, at the speed of trust
-* support non-technical business decision-makers with actionable situational awareness and reliable intelligence in near-real time
+* support non-technical business decision-makers with actionable situational awareness and reliable intelligence 
 * raise the bar by setting an MVP international standard for the "Storytelling with Data" concept  
 * serve as a North Star in standard-setting for unconditionally objective analyses, as a support for ongoing implementation and development of diversity and inclusion initiatives incl. [GBA+](https://www2.gov.bc.ca/assets/gov/british-columbians-our-governments/services-policies-for-government/gender-equity/factsheet-gba.pdf) in Canada and around the world
 * accomplish Data Anonymization to protect personal privacy while increasing openness, transparency and accountability of public services
-* offer a concise, first-principles, reusable, self contained, dependency free resource for operations management, and interdisciplinary reproducibile research
+* offer a concise, first-principles, reusable, self contained, dependency free resource for operations management, and interdisciplinary reproducibile research in near-real time
 * achieve the aims of Machine Learning without use of complex Mathematics and Statistics
 * fulfill the Law of Requisite Variety[^1] without overwhelming the user
 
