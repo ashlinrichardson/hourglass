@@ -17,8 +17,8 @@ Hourglass will:
 ### Technical characteristics
 * not a black box
 * pivots to changing priorities of operations managers
-* consumable outputs for reliably predicting and explaining
-* meet Law of Requisite Variety[^1] without overwhelming the user
+* consumable outputs that reliably predict and explain
+* meets Law of Requisite Variety[^1] without overwhelming the user
 * achieves the goals of Machine Learning without complex Mathematics and Statistics
 * concise, first-principles, reusable, self contained, dependency free implementation
 * scalable: computer resource use requirements are directly proportional to input data volume
