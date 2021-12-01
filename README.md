@@ -15,8 +15,8 @@ Hourglass will:
 "This is just devastating in its power and evocative brilliance.  We will want to continue to work on this."
 
 ### Technical characteristics
-* consumable outputs that predict and explain
 * pivots to changing priorities of operations managers
+* consumable outputs for reliably predicting and explaining
 * meet Law of Requisite Variety[^1] without overwhelming the user
 * achieves the goals of Machine Learning without complex Mathematics and Statistics
 * concise, first-principles, reusable, self contained, dependency free implementation
