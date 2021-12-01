@@ -1,8 +1,8 @@
 # Hourglass
 <img src="hourglass.png" width="250">
-An accessible investigative tool for decision support, developed in partnership with the Michael Smith Foundation, Vancouver Island Health Authority and the University of Victoria intended to:
+An accessible investigative tool for decision support, developed in partnership with the Michael Smith Foundation, Vancouver Island Health Authority and the University of Victoria 
 
-* rapidly reveal real patterns, supporting non-technical decision-makers in near-real-time
+## Mission
+* rapidly reveal real patterns, supporting data-literate non-technical professionals and decision-makers with actionable information in near-real-time
 * raise the bar by setting an MVP international standard for the Storytelling with Data concept
-* serve as a North Star in standard-setting for unconditionally objective analyses, as a support for ongoing implementation and development of initiatives incl. [GBA+](https://www2.gov.bc.ca/assets/gov/british-columbians-our-governments/services-policies-for-government/gender-equity/factsheet-gba.pdf) in Canada and around the world
-
+* serve as a North Star in standard-setting for unconditionally objective analyses, as a support for ongoing implementation and development of diversity and inclusion initiatives incl. [GBA+](https://www2.gov.bc.ca/assets/gov/british-columbians-our-governments/services-policies-for-government/gender-equity/factsheet-gba.pdf) in Canada and around the world
