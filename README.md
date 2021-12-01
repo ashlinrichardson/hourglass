@@ -27,11 +27,13 @@ Hourglass will:
 * achieves the goals of Machine Learning without complex Mathematics and Statistics
 * scalable: Computing resource use requirements are directly proportional to input data volume
 * performs Data Anonymization to protect personal privacy while supporting increasing openness, transparency and accountability of public services
+* borrows critical information from fundamental physics[^4] to help understand social-science data that aren't overtly physical as remotely-sensed (RS) earth-observation (EO) data for example 
 
 ## Inputs
-Hourglass operates on multiple heterogeneous database tables[^4] that must be timestamped. Moreover each table must include an attribute shared among the tables and providing linkage, such as an anonymized identifier.
+Hourglass operates on multiple heterogeneous database tables[^5] that must be timestamped. Moreover each table must include an attribute shared among the tables and providing linkage, such as an anonymized identifier.
 
 [^1]: Privacy aware and tailored for specific investigation and inquiry, not a greedy data mining approach
 [^2]: the application is efficient enough to lend visibility to multiple issues, concerns or phenomena, without lengthly periods for re-training     
 [^3]: "Only variety can master variety, reducing disturbances and promoting harmonious order. Regulation is then possible only if the regulating system is as various and flexible (responsive to changes) as the system to be regulated." Introduction to Cybernetics (1956) by W. Ross Ashby
-[^4] Such as within the BC Data Innovation Program that operates a secure environment for citizen-centred, longditudinal research supporting best-outcomes
+[^4] the [Light Cone](https://en.wikipedia.org/wiki/Light_cone). That is to say, we need both time and space to tell a story!
+[^5] Such as within the BC Data Innovation Program that operates a secure environment for citizen-centred, longditudinal research supporting best-outcomes
