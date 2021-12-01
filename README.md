@@ -17,6 +17,7 @@ Hourglass will:
 ### Technical characteristics
 * not a black box
 * pivots to changing priorities of operations managers
+* quintessentially simple, graphic depiction of events
 * consumable outputs that reliably predict and explain
 * meets Law of Requisite Variety[^1] without overwhelming the user
 * achieves the goals of Machine Learning without complex Mathematics and Statistics
