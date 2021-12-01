@@ -16,13 +16,13 @@ Hourglass will:
 
 ### Technical characteristics
 * not a black box
+* reliable, consumable predictions and explanations
 * pivots to changing priorities of operations managers
 * a quintessentially simple, graphic depiction of events
-* consumable output for reliable predictions and explanations
 * meets Law of Requisite Variety[^1] without overwhelming the user
 * achieves the goals of Machine Learning without complex Mathematics and Statistics
 * concise, first-principles, reusable, self contained, dependency free implementation
 * scalable: computer resource use requirements are directly proportional to input data volume
-* perform Data Anonymization to protect personal privacy while supporting increasing openness, transparency and accountability of public services
+* performs Data Anonymization to protect personal privacy while supporting increasing openness, transparency and accountability of public services
 
 [^1]: "Only variety can master variety, reducing disturbances and promoting harmonious order. Regulation is then possible only if the regulating system is as various and flexible (responsive to changes) as the system to be regulated." Introduction to Cybernetics (1956) by W. Ross Ashby
