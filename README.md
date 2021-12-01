@@ -6,10 +6,10 @@ An accessible, investigative tool developed in collaboration with the Michael Sm
 
 ### Mission
 Hourglass will:
-* provide focused, reliable, scalable insights into determinants and outcomes, at the speed of trust[^1]
-* reveal real patterns swiftly, supporting non-technical business decision-makers with actionable situational awareness and reliable intelligence in near-real time[^2] 
-* raise the bar by setting an MVP international standard for the "Storytelling with Data" concept  
-* serve as a North Star in standard-setting for unconditionally objective analyses, as a support for ongoing implementation and development of diversity and inclusion initiatives incl. [GBA+](https://www2.gov.bc.ca/assets/gov/british-columbians-our-governments/services-policies-for-government/gender-equity/factsheet-gba.pdf) in Canada and around the world
+* Provide focused, reliable, scalable insights into determinants and outcomes, at the speed of trust[^1]
+* Reveal real patterns swiftly, supporting non-technical business decision-makers with actionable situational awareness and reliable intelligence in near-real time[^2] 
+* Raise the bar by setting an MVP international standard for the "Storytelling with Data" concept  
+* Serve as a North Star in standard-setting for unconditionally objective analyses, as a support for ongoing implementation and development of diversity and inclusion initiatives incl. [GBA+](https://www2.gov.bc.ca/assets/gov/british-columbians-our-governments/services-policies-for-government/gender-equity/factsheet-gba.pdf) in Canada and around the world
 
 ### Feedback
 <!-- "This research has hit paydirt. This is a significant accomplishment."
@@ -18,16 +18,16 @@ Hourglass will:
 "This is just devastating in its power and evocative brilliance.  We will want to continue to work on this."
 
 ### Technical characteristics
-* not a black box
-* pivots to changing priorities of operations managers
-* a quintessentially simple, graphic depiction of events
-* meets Law of Requisite Variety[^3] without overwhelming the user
-* reliable predictions and explanations which subject matter experts can interpret
-* concise, first-principles, reusable, self contained, dependency free implementation
-* achieves the goals of Machine Learning without complex Mathematics and Statistics
-* scalable: Computing resource use requirements are directly proportional to input data volume
-* performs Data Anonymization to protect personal privacy while supporting increasing openness, transparency and accountability of public services
-* borrows critical information from fundamental physics[^4] to help understand social-science data that aren't overtly physical as remotely-sensed (RS) earth-observation (EO) data for example 
+* Not a black box
+* Pivots to changing priorities of ops managers
+* A quintessentially simple, graphic depiction of events
+* Meets Law of Requisite Variety[^3] without overwhelming the user
+* Reliable predictions and explanations which subject matter experts can interpret
+* Concise, first-principles, reusable, self contained, dependency free implementation
+* Achieves the goals of Machine Learning without complex Mathematics and Statistics
+* Scalable: Computing resource use requirements are directly proportional to input data volume
+* Performs Data Anonymization to protect personal privacy while supporting increasing openness, transparency and accountability of public services
+* Borrows critical information from fundamental physics[^4] to help understand social-science data that aren't overtly physical as remotely-sensed (RS) earth-observation (EO) data for example 
 
 ## Inputs
 Hourglass operates on multiple heterogeneous database tables[^5] that must be timestamped. Moreover each table must include an attribute shared among the tables and providing linkage, such as an anonymized identifier.
