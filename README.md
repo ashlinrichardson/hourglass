@@ -23,8 +23,8 @@ Hourglass will:
 <img src="doc/PPF_2022.png" width="800">
 
 ### Technical aspects
-* Transparent, explicit method: not black box
-* Pivots to changing priorities of ops managers
+* Explainable, explicit A.I. tool: not black box
+* Pivots to changing priorities of operations mgmt
 * Quintessentially simple, graphic depiction of events
 * Meets Law of Requisite Variety[^3] without overwhelming the user
 * Reliable "predictions" & "explanations" interpretable by subject experts
