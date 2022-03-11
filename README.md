@@ -35,7 +35,7 @@ Hourglass will:
 Hourglass operates on multiple heterogeneous database tables[^5] that must be timestamped. Moreover each table must include an attribute shared among the tables and providing linkage, such as an anonymized identifier.
 
 ## Sample Outputs
-<img src="doc/PPF_2022.png" width="600">
+<img src="doc/PPF_2022.png" width="800">
 
 # References
 [1] Bambi et al: "Longitudinal encounter histories as text: Using natural language processing and graph machine learning methods to locate patient voices within constituencies", Putting Patients First, March 10 2022
