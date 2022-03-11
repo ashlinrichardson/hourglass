@@ -19,6 +19,9 @@ Hourglass will:
 "I will become very familiar with that tool and its potential for use by normal human beings." -->
 "This is just devastating in its power and evocative brilliance.  We will want to continue to work on this."
 
+### Sample output[1]
+<img src="doc/PPF_2022.png" width="800">
+
 ### Technical characteristics
 * Not a black box
 * Pivots to changing priorities of ops managers
@@ -33,9 +36,6 @@ Hourglass will:
 
 ## Inputs
 Hourglass operates on multiple heterogeneous database tables[^5] that must be timestamped. Moreover each table must include an attribute shared among the tables and providing linkage, such as an anonymized identifier.
-
-## Sample Outputs
-<img src="doc/PPF_2022.png" width="800">
 
 # References
 [1] Bambi et al: "Longitudinal encounter histories as text: Using natural language processing and graph machine learning methods to locate patient voices within constituencies", Putting Patients First, March 10 2022
