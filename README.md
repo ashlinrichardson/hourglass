@@ -34,6 +34,9 @@ Hourglass will:
 ## Inputs
 Hourglass operates on multiple heterogeneous database tables[^5] that must be timestamped. Moreover each table must include an attribute shared among the tables and providing linkage, such as an anonymized identifier.
 
+# References
+[1] Bambi et al: "Longitudinal encounter histories as text: Using natural language processing and graph machine learning methods to locate patient voices within constituencies", Putting Patients First, March 10 2022
+
 [^1]: Privacy aware and tailored for specific investigation and inquiry, not a greedy data mining approach
 [^2]: The application is efficient enough to lend visibility to multiple issues, concerns or phenomena, without lengthly periods for re-training     
 [^3]: "Only variety can master variety, reducing disturbances and promoting harmonious order. Regulation is then possible only if the regulating system is as various and flexible (responsive to changes) as the system to be regulated." Introduction to Cybernetics (1956) by W. Ross Ashby
