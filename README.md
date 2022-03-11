@@ -4,7 +4,7 @@
 Hourglass is an accessible, investigative tool[1] developed in collaboration w Michael Smith Foundation for Health Research (MSFHR), Vancouver Island Health Authority (VIHA) and University of Victoria (UVIC) 
 
 
-<img src="hourglass.png" width="250">
+<img src="doc/hourglass.png" width="250">
 
 ### Mission
 Hourglass will:
@@ -35,6 +35,7 @@ Hourglass will:
 Hourglass operates on multiple heterogeneous database tables[^5] that must be timestamped. Moreover each table must include an attribute shared among the tables and providing linkage, such as an anonymized identifier.
 
 ## Sample Outputs
+<img src="doc/PPF_2022.png" width="250">
 
 # References
 [1] Bambi et al: "Longitudinal encounter histories as text: Using natural language processing and graph machine learning methods to locate patient voices within constituencies", Putting Patients First, March 10 2022
