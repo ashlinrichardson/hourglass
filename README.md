@@ -22,17 +22,17 @@ Hourglass will:
 ### Sample output[1]
 <img src="doc/PPF_2022.png" width="800">
 
-### Technical characteristics
-* Not a black box
+### Technical aspects
+* Transparent, explicit method: not black box
 * Pivots to changing priorities of ops managers
-* A quintessentially simple, graphic depiction of events
+* Quintessentially simple, graphic depiction of events
 * Meets Law of Requisite Variety[^3] without overwhelming the user
-* Reliable predictions and explanations which subject matter experts can interpret
-* Concise, first-principles, reusable, self contained, dependency free implementation
-* Achieves the goals of Machine Learning without complex Mathematics and Statistics
-* Scalable: Computing resource use requirements are directly proportional to input data volume
+* Reliable "predictions" & "explanations" interpretable by subject experts
+* Scalable: Computing resource use grows in proportion to input data volume
+* Achieves intended goals of Machine Learning without complex Maths and Stats
+* Concise, first-principles, reusable, self-contained, dependency-free software
 * Performs Data Anonymization to protect personal privacy while supporting increasing openness, transparency and accountability of public services
-* Borrows critical information from fundamental physics[^4] to help understand social-science data that are still physical if not as overtly so as remotely-sensed (RS) earth-observation (EO) data, for example 
+* Borrows critical info from fundamental physics[^4] to help understand social-science data which are ultimately still physical, if not as overtly physical as remotely-sensed (RS) earth-observation (EO) data, for example 
 
 ## Inputs
 Hourglass operates on multiple heterogeneous database tables[^5] that must be timestamped. Moreover each table must include an attribute shared among the tables and providing linkage, such as an anonymized identifier.
