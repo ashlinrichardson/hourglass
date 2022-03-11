@@ -1,8 +1,7 @@
 "I will live in the Past, the Present, and the Future!.. The Spirits of all Three shall strive within me." ~ Charles Dickens
 
 # Project Hourglass
-Hourglass is an accessible, investigative tool[1] developed in collaboration w Michael Smith Foundation for Health Research (MSFHR), Vancouver Island Health Authority (VIHA) and University of Victoria (UVIC) 
-
+First unveiled on March 10th at the PPF 2022 conference, Hourglass is an accessible, investigative tool developed in collaboration w Michael Smith Foundation for Health Research (MSFHR), Vancouver Island Health Authority (VIHA) and University of Victoria (UVIC) 
 
 <img src="doc/hourglass.png" width="250">
 
